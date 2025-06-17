@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <tchar.h>
 
 int main()
@@ -33,3 +33,4 @@ int main()
 	return 0;
 }
 
+*/
